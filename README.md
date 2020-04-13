@@ -1,4 +1,6 @@
-# Bubble And Quick Sort using MVC Winform
+# Bubble And Quick Sort using MVC Winform, Strategy Pattern
+
+This is my implementation of MVC on Winforms and Strategy pattern
 
 The programs primary functionality is to sort a string with the input from a user.
 
@@ -31,7 +33,7 @@ QuickSortTest- sort using Quick Sort algorithm
 Build and run
 
 ## Built With
-Sharp Develop
+C#
 
 ## Authors
 
